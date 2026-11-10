@@ -60,6 +60,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Lightning](https://williamhorning.dev/lightning/framework/) - Cross-platform bot library supporting Fluxer, in addition to Discord, Spacebar, Stoat, Telegram, Matrix, and more
 - [Flo](https://github.com/fluxer-flo/flo) - Cute Go library for making Fluxer bots/self-bots aiming to be simple in implementation and usage
 - [Gofluxer](https://github.com/go-fluxer/gofluxer) - API wrapper for making fluxer.app bots with.
+- [fluxer-go](https://github.com/invaliduser231/fluxer-go) - REST client, gateway, typed events, state cache and voice over LiveKit, with a fake server for tests
 
 ### Rust
 
@@ -116,6 +117,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Voicey](https://web.fluxer.app/oauth2/authorize?client_id=1553833004374175744&scope=bot&permissions=18014398810778736) - Create and manage temporary voice channels with Voicey. Simple Join-to-Create, powerful voice controls, and an easy setup.
 - [RPG THING](https://web.fluxer.app/oauth2/authorize?client_id=1560750128443174912&scope=bot&permissions=330816) - Chat RPG with hunting, fishing, farming, secret crafting recipes, bosses and duels.
 - [misery](https://misery.app) - All-in-one Fluxer bot with Antinuke, Moderation, Levels, Music, Last.FM, Giveaways and a web dashboard.
+- [Maxwell](https://maxwellbot.app) - Moderation, AutoMod, security checks, logs, backups, tickets, levels and welcome cards, set up from a web dashboard. Open source and self-hostable
 
 ## Tools
 
@@ -131,6 +133,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxer-Spotify](https://github.com/KetaLP-hub/Fluxer-Spotify) - Shows your Spotify now-playing, playlist, top artist and listening time as a rotating Fluxer status; Windows exe that runs hidden in the background.
 - [Scratch For Fluxer](https://scratch.fluxer.my) - Drag blocks like you would in Scratch, read the real Python they write, then run your bot. Made for people learning the Fluxer bot API with fluxer.py.
 - [Fluxer Forge](https://github.com/KorryKatti/fluxer-forge) - Self-hosted bot builder for Fluxer: configure modules in the browser and download a ready-to-run Go binary.
+- [Botcarver](https://botcarver.com) - Write your Fluxer bot in small scripts. Free, no ads, runs your bot on fluxer.host
 
 ## Clients
 
